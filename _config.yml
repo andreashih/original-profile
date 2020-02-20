@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title: Site Title
+title: Andrea Shih
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Andrea Shih
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "M.A. Student in Linguistics"
+  email: r08142004@ntu.edu.tw
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: andreashih1997
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #username
+  facebook: andreashih1997
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
@@ -38,7 +38,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-  disqus-shortname:
+  disqus-shortname: theandreajournal
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
