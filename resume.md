@@ -42,13 +42,11 @@ Book Title, Journal Title-->
 ## Presentations
 
 `2019`
-__A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
+[Poster] __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
 Instructor: Prof. Shu-ing Shyu
 
 <a href="https://sites.google.com/view/ncl2019"><u><strong>NCL 2019</strong></u></a>
-
-<a href="https://MyWebsite.tld/presentation1"><u><strong>Poster</strong></u></a>
 
 
 ## Occupation
