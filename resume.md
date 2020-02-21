@@ -3,26 +3,25 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+M.A. Student in Linguistics, National Taiwan University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015 - 2019`
+__National Sun Yat-sen University__
+B.A. in Literature 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+Distinguished Student Award, Department of Foreign Languages and Literature, NSYSU
 
-## Publications
+`2018`
+College Student Research Creativity Award, Ministry of Science and Technology 
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!--## Publications
+
+A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) 
 
 ### Journals
 
@@ -38,29 +37,45 @@ Article Title, Journal Title
 Book Title, Journal Title
 
 `1994`
-Book Title, Journal Title
+Book Title, Journal Title-->
 
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2019`
+A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*
+
+Instructor: Prof. Shu-ing Shyu
+
+<a href="https://sites.google.com/view/ncl2019"><u><strong>NCL 2019</strong></u></a>
+
+<a href="https://MyWebsite.tld/presentation1"><u><strong>Poster</strong></u></a>
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
 
-- Task
-- Task
+- User Manual Translation
+- <a href="https://www.youtube.com/channel/UCIZ6pd5twm7fRwauPpO65tw"><u>YouTube Channel</u></a> Updates
+- New Courses Set-up in NTU COOL System
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2018`
+__English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teaching Center, NSYSU</strong></u></a>
 
-- Task
-- Task
+- English Writing
+- TOEIC
 
+## Certifications
+
+`2019`
+__IELTS Band 7__
+
+__Middle School Teacher Certificate__
+
+`2018`
+__TOEIC 965__
 
 
 <!-- ### Footer
