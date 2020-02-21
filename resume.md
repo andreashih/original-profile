@@ -14,9 +14,8 @@ B.A. in Literature, National Sun Yat-sen University
 ## Awards
 
 `2019`
-__Distinguished Student Award__, Department of Foreign Languages and Literature, NSYSU
+__Distinguished Graduate Award__, Department of Foreign Languages and Literature, NSYSU
 
-`2018`
 __College Student Research Creativity Award__, Ministry of Science and Technology 
 
 <!--## Publications
@@ -74,9 +73,7 @@ __Part-time Worker__, <a href="https://www.kh.edu.tw/department/U0"><u><strong>E
 ## Certifications
 
 `2019`
-__IELTS Band 7__
-
-__Middle School Teacher Certificate__
+__IELTS Band 7 (Overall)__
 
 `2018`
 __TOEIC 965__
