@@ -11,4 +11,4 @@ excerpt: "Biography"
 
 
 Recent Projects
-- <a href="https://github.com/rlads2019/project-andreaseki"><u><strong>Final R Project</strong></u></a>
+- <a href="https://github.com/rlads2019/project-andreaseki"><u><strong>R Final Project</strong></u></a>
