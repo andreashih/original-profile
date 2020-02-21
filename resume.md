@@ -64,6 +64,12 @@ __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teachin
 - English Writing
 - TOEIC
 
+`2017`
+__Part-time Worker__, <a href="https://www.kh.edu.tw/department/U0"><u><strong>Education Bureau, Kaohsiung City Government</strong></u></a>
+
+- Translation
+- Reception of Foreign Guests
+
 ## Certifications
 
 `2019`
