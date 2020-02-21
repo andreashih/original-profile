@@ -57,7 +57,7 @@ __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>
 
 - User Manual Translation
 - <a href="https://www.youtube.com/channel/UCIZ6pd5twm7fRwauPpO65tw"><u>YouTube Channel</u></a> Updates
-- New Courses Set-up in NTU COOL System
+- New Courses Settings in NTU COOL System
 
 `2018`
 __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teaching Center, NSYSU</strong></u></a>
