@@ -3,21 +3,20 @@ layout: resume
 ---
 ## Currently
 
-M.A. Student in Linguistics, National Taiwan University
+__M.A. Student in Linguistics, National Taiwan University__
 
 ## Education
 
 `2015 - 2019`
-__National Sun Yat-sen University__
-B.A. in Literature 
+B.A. in Literature, National Sun Yat-sen University 
 
 ## Awards
 
 `2019`
-Distinguished Student Award, Department of Foreign Languages and Literature, NSYSU
+__Distinguished Student Award__, Department of Foreign Languages and Literature, NSYSU
 
 `2018`
-College Student Research Creativity Award, Ministry of Science and Technology 
+__College Student Research Creativity Award__, Ministry of Science and Technology 
 
 <!--## Publications
 
@@ -43,7 +42,7 @@ Book Title, Journal Title-->
 ## Presentations
 
 `2019`
-A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*
+__A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
 Instructor: Prof. Shu-ing Shyu
 
