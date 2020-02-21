@@ -10,5 +10,5 @@ excerpt: "Biography"
 <p>The first programming language I learned was <strong>MATLAB</strong>. The focus of the course was to solve mathematical problems with MATLAB. In the very first semester of graduate school, I signed up for <strong><a href="https://rlads2019.github.io/">Introduction to Data Science with R</a></strong>. Besides <strong>base R</strong> and <strong>tidyverse packages</strong>, I grasped the concept of <strong>text analytics</strong> through this course. At the end of the class, I cooperated with peers and completed a <strong><a href="https://github.com/rlads2019/project-andreaseki">project</a></strong> featuring text analytics.</p>
 
 
-Recent Projects
-- <a href="https://github.com/rlads2019/project-andreaseki"><u><strong>R Final Project</strong></u></a>
+**Recent Projects**
+- <a href="https://github.com/rlads2019/project-andreaseki"><u>R Final Project</u></a>
