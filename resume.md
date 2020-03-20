@@ -65,7 +65,7 @@ __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>
 __Research Assistant__, <a href="https://lopen.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Annotated sense relations in CWN (Chinese Wordnet)
-- Assisted rating processes in Word Sense Disambiguity task
+- Assisted rating processes in Word Sense Disambiguation task
 
 `2018`
 __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teaching Center, NSYSU</strong></u></a>
