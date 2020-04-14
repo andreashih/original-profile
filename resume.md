@@ -53,7 +53,7 @@ __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 ## Occupation
 
 `Current`
-__Research Assistant__, <a href="https://lopen.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
+__Research Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
 
@@ -62,7 +62,7 @@ __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>
 - New Courses Settings in NTU COOL System
 
 `2019.12 - 2020.02`
-__Research Assistant__, <a href="https://lopen.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
+__Research Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Annotated sense relations in CWN (Chinese Wordnet)
 - Assisted rating processes in Word Sense Disambiguation task

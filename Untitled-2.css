@@ -1,0 +1,519 @@
+<?php /* Template Name: members */ ?>
+    <?php
+    /**
+     *  The template for displaying Page.
+     *
+     *  @package lawyeria-lite
+     */
+    get_header();
+    ?>
+        <section class="wide-nav">
+        <div class="wrapper">
+          <h3>
+            <?php the_title(); ?>
+          </h3><!--/h3-->
+        </div><!--/div .wrapper-->
+      </section><!--/section .wide-nav-->
+    </header><!--/header-->
+    <section style="background-color: white;">
+      <div>
+        <!--<div id="posts">-->
+          <?php
+            if ( have_posts() ) : while ( have_posts() ) : the_post();
+            
+          ?>
+          
+<div class="container">
+  <div class="at-grid" data-column="3">
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/shukai.png"/></div>
+        <div class="at-user__name">Shu-Kai Hsieh</div>
+        <div class="at-user__title">Supervisor</div>
+        <ul class="at-social" style="color:#DDD;">
+          <p style="color:black;">Ph.D. in Computational Linguistics, University of Tübingen, Germany</p><br>
+          <li class="at-social__item">
+            <a href="mailto:shukai@gmail.com" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Corpus and Computational Linguistics, Lexical Semantics, Text Analytics and Data Science, Ontologies and Lexicon, Cognitive Neuroscience">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="https://iakuhs.netlify.com" target="_blank">
+              <i class="fa fa-external-link" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/yushiang.jpg"/></div>
+        <div class="at-user__name">Yu-Hsiang Tseng</div>
+        <div class="at-user__title">Post-doc Research Fellow</div>
+        <ul class="at-social">
+          <p style="color:black;">Ph.D. in Psychology, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:seantyh@gmail.com" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Psychology of Reading, Readability, Text Analytics, Computational Linguistics, Computational Semantics, Psycholinguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>    
+   
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/chihyao.jpg"/></div>
+        <div class="at-user__name">Chih-Yao Lee</span></div>
+        <div class="at-user__title">Ph.D. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:imgyao@gmail.com" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Corpus Linguistics, Front-End Engineering">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="http://gyao.tw/" target="_blank">
+              <i class="fa fa-external-link" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+ 
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Amber.png"/></div>
+        <div class="at-user__name">Po-Ya Angela Wang</div>
+        <div class="at-user__title">Ph.D. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:diff@cmgsh.tp.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Corpus Linguistics, Lexical Semantics, Psycholinguistics, Discourse Analysis, Sociolinguistics, Historical Linguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="https://www.instagram.com/differe94nt/" target="_blank">
+              <i class="fa fa-external-link" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/MaoChang.png"/></div>
+        <div class="at-user__name">Mao-Chang Ku</div>
+        <div class="at-user__title">Ph.D. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:d08142002@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Lexical Semantics, Syntax">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+   
+
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/freya.jpg"/></div>
+        <div class="at-user__name">Yi-Chen Yeh</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:alchemist19940520@gmail.com" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Forensic Linguistics, Computational Linguistics, Speech-language Pathology">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+   
+
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Jessica.jpg"/></div>
+        <div class="at-user__name">Yi-Ju Lin</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r06142001@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Discourse Analysis, Language Acquisition, Computational Linguistics, Corpus Linguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Yolanda.jpg"/></div>
+        <div class="at-user__name">Yolanda Chen</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r06142009@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Discourse Analysis, Sociolinguistics, Corpus Linguistics, Language Acquisition">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Jessy.jpg"/></div>
+        <div class="at-user__name">Jessy Chen</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r06142003@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Corpus Linguistics, Lexical Semantics, Language Acquisition">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  
+
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/chiacheng.jpg"/></div>
+        <div class="at-user__name">Ka-Sing Khoo</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r07142006@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Austronesian Linguistics, Phonology, Corpus Linguistics, Morphology">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  
+  
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/hantang.jpg"/></div>
+        <div class="at-user__name">Han-Tang Hung</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r07142007@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Sociolinguistics, Historical Linguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Debby.jpg"/></div>
+        <div class="at-user__name">Debby Chang</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r07142005@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Lexical Semantics, Computational Semantics, Semiotics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Yongfu.jpg"/></div>
+        <div class="at-user__name">Yongfu Liao</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r08142002@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Psycholinguistics, Language and Cultural Evolutionism">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>    
+
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Cingfang.jpg"/></div>
+        <div class="at-user__name">Cing-Fang Shih</div>
+        <div class="at-user__title">M.A. Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Graduate Institute of Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r08142004@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Corpus Linguistics, Psycholinguistics, Phonology, Syntax">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/joy.png"/></div>
+        <div class="at-user__name">Joy Chiang</div>
+        <div class="at-user__title">Research Assistant</div>
+        <ul class="at-social">
+          <p style="color:black;">M.A. in Education, National Chi-Nan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:sonnejoy@gmail.com" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Corpus and Computational Linguistics, Text Analytics and Data Science, Qualitative Analysis">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/richard.jpg"/></div>
+        <div class="at-user__name">Richard Lian</div>
+        <div class="at-user__title">Research Assistant</div>
+        <ul class="at-social">
+          <p style="color:black;">M.A. in Linguistics, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:r05142009@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Corpus Linguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>    
+
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Yulin.png"/></div>
+        <div class="at-user__name">Yu-Lin Chang</div>
+        <div class="at-user__title">Research Assistant</div>
+        <ul class="at-social">
+          <p style="color:black;">Business Administration, National Taiwan University, Taiwan</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:b06701146@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Syntax">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="https://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/JeffH.jpg"/></div>
+        <div class="at-user__name">Jeff Hsu</div>
+        <div class="at-user__title">Undergraduate Research</div>
+        <ul class="at-social">
+          <p style="color:black;">Department of Materials Science and Engineering, National Taiwan University</p><br/>
+          <li class="at-social__item">
+            <a href="mailto:b05507007@ntu.edu.tw" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Computational Linguistics, Computational Semantics, Corpus Linguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li>
+          <li class="at-social__item">
+            <a href="https://github.com/Splend1d" target="_blank">
+              <i class="fa fa-external-link" aria-hidden="true"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div> 
+    
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/Jonathan5.png"/></div>
+        <div class="at-user__name">Jonathan Baumel</div>
+        <div class="at-user__title">Exchange Student</div>
+        <ul class="at-social">
+          <p style="color:black;">Harvard University</p><br/>
+          <!--- <li class="at-social__item">
+            <a href="mailto:" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Language Acquisition, Computational Linguistics, Corpus Linguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li> -->
+        </ul>
+      </div>
+    </div>    
+
+<div class="at-column">
+      <div class="at-user">
+        <div class="at-user__avatar"><img src="http://lope.linguistics.ntu.edu.tw/wp-content/themes/lawyeria-lite/images/celia.png"/></div>
+        <div class="at-user__name">Celia Anderson</div>
+        <div class="at-user__title">Summer Intern</div>
+        <ul class="at-social">
+          <p style="color:black;">Chicago University</p><br/>
+          <!-- <li class="at-social__item">
+            <a href="mailto:" target="_blank">
+              <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            </a>
+          </li>  
+          <li class="at-social__item">
+            <a href="#/" data-tooltip data-tooltip-label="Research interests" data-tooltip-message="Language Acquisition, Computational Linguistics, Corpus Linguistics">
+              <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+            </a>
+          </li> -->
+        </ul>
+      </div>
+    </div>    
+    
+  </div>
+  <br/><br/>
+  <div style="color:black;font-size:30px;">Former members:<br/><br/>
+      <p style="color:black;font-size:19px;line-height:34px;font-family:Roboto-Slab">
+        Chih-Yao Lee, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Yu-Wen Liu, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Chan-Chiah Hsu, <span style="color:gray;">Ph.D. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Yi-An Wu, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Shanon Lin, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Yvonne Chuang, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Nicole Peinelt, <span style="color:gray;">M.A. in Computational Linguistics and Chinese Studies, University of Trier, Germany</span><br/>
+        Shu-Yen Lin, <span style="color:gray;">Ph.D. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Jessie Lo, <span style="color:gray;">M.A. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Pierre Magistry, <span style="color:gray;">Post-Doc in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Debby Pan, <span style="color:gray;">M.A. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Chang-An Shih, <span style="color:gray;">Research Assistant, Academia Sinica, Taiwan</span><br/>
+        Sheng-Wei Huang, <span style="color:gray;">Research Assistant, Academia Sinica, Taiwan</span><br/>
+        Vicky Lin, <span style="color:gray;">M.A. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Wallace Zhang, <span style="color:gray;">M.A. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Ding-Shiang Lin, <span style="color:gray;">M.S. in Computer Science and Engineering, National Taiwan Ocean University, Taiwan</span><br/>
+        Li-Chuan Ku, <span style="color:gray;">M.A. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Julia Wu, <span style="color:gray;">M.A. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Katherine Chen, <span style="color:gray;">M.A. in Linguistics, National Taiwan Normal University, Taiwan</span><br/>
+        Chin-Ju Huang, <span style="color:gray;">M.A. Student in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Tsun-Jui Liu, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Emily Lu, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Amber Wang, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+        Rui-Qian Qin, <span style="color:gray;">B.A. in Computer Science and Information Engineering, National Taiwan University, Taiwan</span><br/>
+        Shih-Kai Lin, <span style="color:gray;">M.A. in Chemistry, National Taiwan University, Taiwan</span><br/>
+        Mark Chang, <span style="color:gray;">M.A. in Electronic Engineering, National Taiwan University, Taiwan</span><br/>
+Tzu-Yun Huang, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+Chia-Chen Lee, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+Hsiao-Han Wu, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+Yu-Yun Chang, <span style="color:gray;">Ph.D. in Linguistics, National Taiwan University, Taiwan</span><br/>
+Richard Lian, <span style="color:gray;">M.A. in Linguistics, National Taiwan University, Taiwan</span><br/>
+Simon Shih, <span style="color:gray;">Ph.D. in Linguistics, National Taiwan University, Taiwan</span><br/>        
+      </p>
+  </div>
+</div>
+
+          <?php endwhile; else: ?>
+                      <p><?php _e('Sorry, no posts matched your criteria.', 'lawyeria-lite'); ?></p>
+                  <?php endif; ?>
+        <!--</div>/div #posts-->
+        <?php //get_sidebar(); ?>
+      </div><!--/div .wrapper-->
+    </section><!--/section #content-->
+    <?php get_footer(); ?>
