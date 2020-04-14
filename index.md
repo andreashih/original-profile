@@ -7,7 +7,7 @@ excerpt: "Biography"
 
 <p>I had obtained basic knowledge about Linguistics in college. In addition, I took plenty of courses related to Psychology, which encouraged me to study language from different perspectives. </p>
 
-<p>I learned my first programming language <strong>MATLAB</strong> in college. The focus of the course was to solve mathematical problems with MATLAB. With an ambition to major in Computational Linguistics, I signed up for <strong><a href="https://rlads2019.github.io/">Introduction to Data Science with R</a></strong> in the very first semester of graduate school. Besides <strong>base R</strong> and <strong>tidyverse packages</strong>, I grasped the concept of <strong>text analytics</strong> through this course. At the end of the class, I cooperated with peers and completed a <strong><a href="https://github.com/rlads2019/project-andreaseki">project</a></strong> featuring text analytics. This semester (Spring 2020), I started learning Python. Hope that one day I can become fluent in both R and Python! </p>
+<p>With an ambition to major in Computational Linguistics, I signed up for <strong><a href="https://rlads2019.github.io/">Introduction to Data Science with R</a></strong> in the very first semester of graduate school. Besides <strong>base R</strong> and <strong>tidyverse packages</strong>, I grasped the concept of <strong>text analytics</strong> through this course. At the end of the class, I cooperated with peers and completed a <strong><a href="https://github.com/rlads2019/project-andreaseki">project</a></strong> featuring text analytics. This semester (Spring 2020), I started learning <strong>Python</strong>. Hope that one day I can become fluent in both R and Python! </p>
 
 
 **Recent Projects**
