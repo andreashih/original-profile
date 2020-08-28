@@ -63,6 +63,9 @@ __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 `Current`
 __Research Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
+- Annotated word senses in CWN (Chinese Wordnet)
+- Assisted the student camp of Taiwan Olympiad in Linguistics (TOL)
+
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
 
 - User Manual Translation
