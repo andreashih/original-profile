@@ -41,12 +41,20 @@ Book Title, Journal Title-->
 
 
 ## Presentations
+`upcoming`
+__Lectal Variation of the Two Chinese Causative Auxiliaries: A Logistic Regression Analysis Approach__
+
+- Authors: Cing-Fang Shih, Mao-Chang Ku, Shu-Kai Hsieh
+- Oral Presentaion
+- Instructor: Prof. Shu-Kai Hsieh
+- <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u><strong>ROCLING 2020</strong></u></a>
+
 
 `2019`
 __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
 - Poster Presentation
-- Instructor: Prof. Shu-ing Shyu
+- Instructor: Prof. Shu-Ing Shyu
 - <a href="https://sites.google.com/view/ncl2019"><u><strong>NCL 2019</strong></u></a>
 
 
