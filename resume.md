@@ -42,7 +42,7 @@ Book Title, Journal Title-->
 
 ## Presentations
 `upcoming`
-__Lectal Variation of the Two Chinese Causative Auxiliaries: A Logistic Regression Analysis Approach__
+__Lectal Variation of the Two Chinese Causative Auxiliaries__
 
 - Authors: Cing-Fang Shih, Mao-Chang Ku, Shu-Kai Hsieh
 - Oral Presentaion
