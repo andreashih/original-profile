@@ -63,7 +63,7 @@ __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 `2020`
 __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 
-- Authors: Shu-Kai Hsieh, Yu-Hsiang Tseng, Chiung-Yu Chiang, Richard Lian, Yong-fu Liao, Mao-Chang Ku, **Ching-Fang Shih**
+- Authors: Shu-Kai Hsieh, Yu-Hsiang Tseng, Chiung-Yu Chiang, Richard Lian, Yong-fu Liao, Mao-Chang Ku, Ching-Fang Shih
 - <a href="https://vlsp.org.vn/paclic2020/"><u><strong>PACLIC 2020</strong></u></a>
 
 
