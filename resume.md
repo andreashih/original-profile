@@ -58,22 +58,33 @@ __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 - <a href="https://sites.google.com/view/ncl2019"><u><strong>NCL 2019</strong></u></a>
 
 
-## Occupation
+## Research Experience
+
+`2020`
+__From Sense to Action: A Word-Action Disambiguation Task in NLP__
+
+- Authors: Shu-Kai Hsieh, Yu-Hsiang Tseng, Chiung-Yu Chiang, Richard Lian, Yong-fu Liao, Mao-Chang Ku, **Ching-Fang Shih**
+- <a href="https://vlsp.org.vn/paclic2020/"><u><strong>PACLIC 2020</strong></u></a>
+
+
+## Work Experience
 
 `Current`
-__Research Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
+__Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Annotated word senses in CWN (Chinese Wordnet)
 - Assisted the student camp of Taiwan Olympiad in Linguistics (TOL)
 
+`2019.09 - 2020.08`
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
 
-- User Manual Translation
+- User Manual & Questionnaire Translation
 - <a href="https://www.youtube.com/channel/UCIZ6pd5twm7fRwauPpO65tw"><u>YouTube Channel</u></a> Updates
 - New Courses Settings in NTU COOL System
+- System Testing
 
 `2019.12 - 2020.02`
-__Research Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
+__Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Annotated sense relations in CWN (Chinese Wordnet)
 - Assisted rating processes in Word Sense Disambiguation task
