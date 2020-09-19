@@ -72,8 +72,10 @@ __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 `Current`
 __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
-- Annotated word senses in CWN (Chinese Wordnet)
-- Assisted the student camp of Taiwan Olympiad in Linguistics (TOL)
+- Word Senses and Sense Relations Annotation in CWN2 (Chinese Wordnet)
+- Rating Assistant in Word Sense Disambiguation Task
+- TA of the Student Camp of Taiwan Olympiad in Linguistics (TOL)
+- Reimbursement Application
 
 `2019.09 - 2020.08`
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
@@ -83,17 +85,11 @@ __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>
 - New Courses Settings in NTU COOL System
 - System Testing
 
-`2019.12 - 2020.02`
-__Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
-
-- Annotated sense relations in CWN (Chinese Wordnet)
-- Assisted rating processes in Word Sense Disambiguation task
-
 `2018`
 __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teaching Center, NSYSU</strong></u></a>
 
-- English Writing
-- TOEIC
+- English Writing Consultation
+- TOEIC Consultation
 
 `2017`
 __Part-time Worker__, <a href="https://www.kh.edu.tw/department/U0"><u><strong>Education Bureau, Kaohsiung City Government</strong></u></a>
@@ -112,6 +108,6 @@ __TOEIC 965__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2020 -->
 
 
