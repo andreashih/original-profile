@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: post
 title: A Study of Approximators Zuǒyoù, Shàngxià, and Qiánhoù
 excerpt: NCL 2019 at National Chiao Tung University
 theme: simple
