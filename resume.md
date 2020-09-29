@@ -72,7 +72,7 @@ __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 `Current`
 __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
-- Word Senses and Sense Relations Annotation in CWN2 (Chinese Wordnet)
+- Word Senses and Sense Relations Annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u><strong>CWN2 (Chinese Wordnet)</strong></u></a>
 - Rating Assistant in Word Sense Disambiguation Task
 - TA of the Student Camp of Taiwan Olympiad in Linguistics (TOL)
 - Reimbursement Application
