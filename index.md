@@ -15,4 +15,5 @@ This semester (Fall 2021), I am taking **statistics** to catch up on knowledge o
 
 
 **Recent Projects**
+- <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><u>Corpus Processing Project: Keyness</u></a>
 - <a href="https://github.com/andreashih/docx-search-manipulation"><u>docx-search-manipulation</u></a>
