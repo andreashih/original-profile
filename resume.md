@@ -45,7 +45,7 @@ Book Title, Journal Title-->
 `2020`
 __Corpus Processing Project: Keyness__
 
-- [Hands-on Corpus Linguistics Workshop](https://lopentu.github.io/Hands-on_Corpus_Linguistics/) held by LOPE Lab
+- <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/"><u><strong>Hands-on Corpus Linguistics Workshop</strong></u></a>
 
 `2020`
 __Lectal Variation of the Two Chinese Causative Auxiliaries__
