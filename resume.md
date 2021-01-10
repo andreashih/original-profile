@@ -53,16 +53,16 @@ __Corpus Processing Project: Keyness__
 __Lectal Variation of the Two Chinese Causative Auxiliaries__
 
 - Authors: Cing-Fang Shih, Mao-Chang Ku, Shu-Kai Hsieh
-- <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><u><strong>Oral Presentaion</strong></u></a>
 - Instructor: Prof. Shu-Kai Hsieh
+- <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><u><strong>Oral Presentaion</strong></u></a>
 - <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u><strong>ROCLING 2020</strong></u></a>
 
 
 `2019`
 __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
-- <a href="https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing"><u><strong>Poster Presentation</strong></u></a>
 - Instructor: Prof. Shu-Ing Shyu
+- <a href="https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing"><u><strong>Poster Presentation</strong></u></a>
 - <a href="https://sites.google.com/view/ncl2019"><u><strong>NCL 2019</strong></u></a>
 
 
