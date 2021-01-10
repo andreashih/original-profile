@@ -45,13 +45,15 @@ Book Title, Journal Title-->
 `2020`
 __Corpus Processing Project: Keyness__
 
+- Presenters: Cing-Fang Shih and Mao-Chang Ku
+- [Hands-on Presentation](https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb)
 - <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/"><u><strong>Hands-on Corpus Linguistics Workshop</strong></u></a> held by <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 `2020`
 __Lectal Variation of the Two Chinese Causative Auxiliaries__
 
 - Authors: Cing-Fang Shih, Mao-Chang Ku, Shu-Kai Hsieh
-- Oral Presentaion
+- [Oral Presentaion](https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing)
 - Instructor: Prof. Shu-Kai Hsieh
 - <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u><strong>ROCLING 2020</strong></u></a>
 
@@ -59,7 +61,7 @@ __Lectal Variation of the Two Chinese Causative Auxiliaries__
 `2019`
 __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
-- Poster Presentation
+- [Poster Presentation](https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing)
 - Instructor: Prof. Shu-Ing Shyu
 - <a href="https://sites.google.com/view/ncl2019"><u><strong>NCL 2019</strong></u></a>
 
