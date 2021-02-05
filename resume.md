@@ -105,6 +105,13 @@ __Part-time Worker__, <a href="https://www.kh.edu.tw/department/U0"><u><strong>E
 - Translation
 - Reception of Foreign Guests
 
+## Certification
+
+`2019`
+IELTS 7.0 (overall)
+
+`2018`
+TOEIC 965
 
 <!-- ### Footer
 
