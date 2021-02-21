@@ -81,7 +81,7 @@ __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Word Senses and Sense Relations Annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u><strong>CWN2 (Chinese Wordnet)</strong></u></a>
-- Rating Assistant in Word Sense Disambiguation Task
+- Rating Assistant in Word Action Disambiguation Task
 - TA of the Student Camp of Taiwan Olympiad in Linguistics (TOL)
 - Reimbursement Application
 
@@ -108,10 +108,10 @@ __Part-time Worker__, <a href="https://www.kh.edu.tw/department/U0"><u><strong>E
 ## Certification
 
 `2019`
-IELTS 7.0 (overall)
+- IELTS 7.0 (overall)
 
 `2018`
-TOEIC 965
+- TOEIC 965
 
 <!-- ### Footer
 
