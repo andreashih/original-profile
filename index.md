@@ -7,25 +7,22 @@ excerpt: "Biography"
 
 <p>I had obtained basic knowledge about Linguistics in college. In addition, I took plenty of courses related to Psychology, which encouraged me to study language from different perspectives. </p>
 
-&nbsp;
 
-**Relevant coursework**
+**Relevant Coursework**
 
-`Fall 2019`  
+*Fall 2019*  
 <a href="https://rlads2019.github.io/">Introduction to Data Science with R</a>
 
-`Spring 2020`  
+*Spring 2020*  
 Computing in Humanities (python)  
 [Corpus Linguistics](https://alvinntnu.github.io/NTNU_ENC2036/)
 
-`Fall 2020`  
+*Fall 2020*  
 Statistics    
 Corpus Processing Method
 
-`Spring 2021`  
+*Spring 2021*  
 [Computational Linguistics](https://alvinntnu.github.io/NTNU_ENC2045/)
-
-&nbsp;
 
 **Recent Projects**
 - <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><u>Corpus Processing Project: Keyness</u></a>
