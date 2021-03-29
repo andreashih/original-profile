@@ -11,18 +11,18 @@ excerpt: "Biography"
 **Relevant Coursework**
 
 *Fall 2019*  
-<a href="https://rlads2019.github.io/">Introduction to Data Science with R</a>
+- [Introduction to Data Science with R](https://rlads2019.github.io/)
 
 *Spring 2020*  
-Computing in Humanities (python)  
-[Corpus Linguistics](https://alvinntnu.github.io/NTNU_ENC2036/)
+- Computing in Humanities (python)  
+- [Corpus Linguistics](https://alvinntnu.github.io/NTNU_ENC2036/)
 
 *Fall 2020*  
-Statistics    
-Corpus Processing Method
+- Statistics    
+- Corpus Processing Method
 
 *Spring 2021*  
-[Computational Linguistics](https://alvinntnu.github.io/NTNU_ENC2045/)
+- [Computational Linguistics](https://alvinntnu.github.io/NTNU_ENC2045/)
 
 **Recent Projects**
 - <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><u>Corpus Processing Project: Keyness</u></a>
