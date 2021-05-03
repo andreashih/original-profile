@@ -81,7 +81,7 @@ __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Assistant in cooperation project with Chunghwa Telecom Co., Ltd. (public opinion and sentiment analysis)
-- TA of [**<u>Introduction to Programming for Data Science<u>**](https://lopentu.github.io/rlads2021/)
+- TA of <a href="https://lopentu.github.io/rlads2021/"><u><strong>Introduction to Programming for Data Science</strong></u></a>
 - Word Senses and Sense Relations Annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u><strong>CWN2 (Chinese Wordnet)</strong></u></a>
 - Rating Assistant in Word Action Disambiguation Task
 - TA of the Student Camp of Taiwan Olympiad in Linguistics (TOL)
