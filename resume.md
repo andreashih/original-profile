@@ -6,10 +6,13 @@ title: Resume
 
 __M.A. Student in Linguistics, National Taiwan University__
 
+- Concentration: Computational Linguistics, Corpus Linguistics
+- Lab: LOPE Lab
+
 ## Education
 
 `2015 - 2019`
-B.A. in Literature, National Sun Yat-sen University 
+B.A. in Foreign Languages and Literature, National Sun Yat-sen University 
 
 ## Awards
 
