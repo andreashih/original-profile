@@ -49,24 +49,24 @@ Book Title, Journal Title-->
 __Corpus Processing Project: Keyness__
 
 - Presenters: Cing-Fang Shih and Mao-Chang Ku
-- <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><u><strong>Hands-on Presentation</strong></u></a>
-- <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/"><u><strong>Hands-on Corpus Linguistics Workshop</strong></u></a> held by <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
+- <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><u>Hands-on Presentation</u></a>
+- <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/"><u>Hands-on Corpus Linguistics Workshop</u></a> held by <a href="https://lope.linguistics.ntu.edu.tw/"><u>LOPE Lab</u></a>
 
 `2020`
 __Lectal Variation of the Two Chinese Causative Auxiliaries__
 
 - Authors: Cing-Fang Shih, Mao-Chang Ku, Shu-Kai Hsieh
 - Instructor: Prof. Shu-Kai Hsieh
-- <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><u><strong>Oral Presentaion</strong></u></a>
-- <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u><strong>ROCLING 2020</strong></u></a>
+- <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><u>Oral Presentaion</u></a>
+- <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u>ROCLING 2020</u></a>
 
 
 `2019`
 __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
 - Instructor: Prof. Shu-Ing Shyu
-- <a href="https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing"><u><strong>Poster Presentation</strong></u></a>
-- <a href="https://sites.google.com/view/ncl2019"><u><strong>NCL 2019</strong></u></a>
+- <a href="https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing"><u>Poster Presentation</u></a>
+- <a href="https://sites.google.com/view/ncl2019"><u>NCL 2019</u></a>
 
 
 ## Research Experience
@@ -75,7 +75,7 @@ __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 
 - Authors: Shu-Kai Hsieh, Yu-Hsiang Tseng, Chiung-Yu Chiang, Richard Lian, Yong-fu Liao, Mao-Chang Ku, Ching-Fang Shih
-- <a href="https://vlsp.org.vn/paclic2020/"><u><strong>PACLIC 2020</strong></u></a>
+- <a href="https://vlsp.org.vn/paclic2020/"><u>PACLIC 2020</u></a>
 
 
 ## Work Experience
@@ -84,8 +84,8 @@ __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Assistant in cooperation project with Chunghwa Telecom Co., Ltd. (public opinion and sentiment analysis)
-- TA of <a href="https://lopentu.github.io/rlads2021/"><u><strong>Introduction to Programming for Data Science</strong></u></a>
-- Word Senses and Sense Relations Annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u><strong>CWN2 (Chinese Wordnet)</strong></u></a>
+- TA of <a href="https://lopentu.github.io/rlads2021/"><u>Introduction to Programming for Data Science</u></a>
+- Word Senses and Sense Relations Annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u>CWN2 (Chinese Wordnet)</u></a>
 - Rating Assistant in Word Action Disambiguation Task
 - TA of the Student Camp of Taiwan Olympiad in Linguistics (TOL)
 - Reimbursement Application
