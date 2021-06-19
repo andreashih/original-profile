@@ -90,6 +90,9 @@ __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><stron
 - TA of the Student Camp of Taiwan Olympiad in Linguistics (TOL)
 - Reimbursement Application
 
+`2021.07 - 2021.08`
+__Software Engineer Intern (Backend)__, <a href="https://www.deltaww.com/en-US/index"><u><strong>Delta Electronics</strong></u></a>
+
 `2019.09 - 2020.08`
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
 
