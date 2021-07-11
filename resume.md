@@ -91,7 +91,9 @@ __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><stron
 - Reimbursement Application
 
 `2021.07 - 2021.08`
-__Software Engineer Intern (Backend)__, <a href="https://www.deltaww.com/en-US/index"><u><strong>Delta Electronics</strong></u></a>
+__Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/index"><u><strong>Delta Electronics</strong></u></a>
+
+- Data Migration
 
 `2019.09 - 2020.08`
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
@@ -106,12 +108,6 @@ __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teachin
 
 - English Writing Consultation
 - TOEIC Consultation
-
-`2017`
-__Part-time Worker__, <a href="https://www.kh.edu.tw/department/U0"><u><strong>Education Bureau, Kaohsiung City Government</strong></u></a>
-
-- Translation
-- Reception of Foreign Guests
 
 ## Certification
 
