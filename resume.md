@@ -45,6 +45,15 @@ Book Title, Journal Title-->
 
 ## Presentations
 
+<!--`Upcoming`
+__What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion__
+
+- Authors: Cing-Fang Shih, Yu-Hsiang Tseng, Ching-Wen Yang, Pin-Er Chen, Hsin-Yu Chou, Lian-Hui Tan, Tzu-Ju Lin, Chun-Wei Wang and Shu-Kai Hsieh
+- Instructor: Prof. Shu-Kai Hsieh
+- Long Oral Presentaion
+- <a href="https://rocling2021.github.io/"><u>ROCLING 2021</u></a>-->
+
+
 `2020`
 __Corpus Processing Project: Keyness__
 
@@ -55,7 +64,7 @@ __Corpus Processing Project: Keyness__
 `2020`
 __Lectal Variation of the Two Chinese Causative Auxiliaries__
 
-- Authors: Cing-Fang Shih, Mao-Chang Ku, Shu-Kai Hsieh
+- Authors: Cing-Fang Shih, Mao-Chang Ku and Shu-Kai Hsieh
 - Instructor: Prof. Shu-Kai Hsieh
 - <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><u>Oral Presentaion</u></a>
 - <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u>ROCLING 2020</u></a>
