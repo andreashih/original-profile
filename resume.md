@@ -45,28 +45,27 @@ Book Title, Journal Title-->
 
 ## Presentations
 
-<!--`Upcoming`
+`2021`
 __What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion__
 
 - Authors: Cing-Fang Shih, Yu-Hsiang Tseng, Ching-Wen Yang, Pin-Er Chen, Hsin-Yu Chou, Lian-Hui Tan, Tzu-Ju Lin, Chun-Wei Wang and Shu-Kai Hsieh
-- Instructor: Prof. Shu-Kai Hsieh
-- Long Oral Presentaion
-- <a href="https://rocling2021.github.io/"><u>ROCLING 2021</u></a>-->
+- An Industry-Academia Collaboration Project
+- <a href="https://docs.google.com/presentation/d/1DYROW1Yh_vTV9DBaTCsbTZu4AXR8B15e58e9DyTGybc/edit?usp=sharing"><u>Presentaion Slides</u></a>
+- <a href="https://rocling2021.github.io/"><u>ROCLING 2021</u></a>
 
 
 `2020`
 __Corpus Processing Project: Keyness__
 
 - Presenters: Cing-Fang Shih and Mao-Chang Ku
-- <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><u>Hands-on Presentation</u></a>
+- <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><u>Hands-on Presentation Code</u></a>
 - <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/"><u>Hands-on Corpus Linguistics Workshop</u></a> held by <a href="https://lope.linguistics.ntu.edu.tw/"><u>LOPE Lab</u></a>
 
 `2020`
 __Lectal Variation of the Two Chinese Causative Auxiliaries__
 
 - Authors: Cing-Fang Shih, Mao-Chang Ku and Shu-Kai Hsieh
-- Instructor: Prof. Shu-Kai Hsieh
-- <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><u>Oral Presentaion</u></a>
+- <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><u>Presentaion Slides</u></a>
 - <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u>ROCLING 2020</u></a>
 
 
@@ -74,7 +73,7 @@ __Lectal Variation of the Two Chinese Causative Auxiliaries__
 __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
 - Instructor: Prof. Shu-Ing Shyu
-- <a href="https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing"><u>Poster Presentation</u></a>
+- <a href="https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing"><u>Poster</u></a>
 - <a href="https://sites.google.com/view/ncl2019"><u>NCL 2019</u></a>
 
 
@@ -128,6 +127,6 @@ __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teachin
 
 <!-- ### Footer
 
-Last updated: Jan 2021 -->
+Last updated: Oct 2021 -->
 
 
