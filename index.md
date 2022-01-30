@@ -14,9 +14,9 @@ My goal is to contribute to the growing field of Chinese NLP, especially Taiwan 
 **News**
 ---
 
-`Oct 16, 2021`  |   Giving a presentation at [ROCLING 2021](https://rocling2021.github.io/)  
-`Jul 05, 2021`  |   Starting my intern job at [Delta Electronic](https://www.deltaww.com/en-US/index)  
-`Mar 01, 2021`  |   Starting my TA job ([Introduction to Programming for Data Science](https://lopentu.github.io/rlads2021/))  
-`Dec 13, 2020`  |   Giving a live demo at [Hands-on Corpus Linguistics Workshop](https://lopentu.github.io/Hands-on_Corpus_Linguistics/)
+`Oct 16, 2021`  |   Giving a presentation at [<u>ROCLING 2021</u>](https://rocling2021.github.io/)  
+`Jul 05, 2021`  |   Starting my intern job at [<u>Delta Electronic</u>](https://www.deltaww.com/en-US/index)  
+`Mar 01, 2021`  |   Starting my TA job ([<u>Introduction to Programming for Data Science</u>](https://lopentu.github.io/rlads2021/))  
+`Dec 13, 2020`  |   Giving a live demo at [<u>Hands-on Corpus Linguistics Workshop</u>](https://lopentu.github.io/Hands-on_Corpus_Linguistics/)
 
 <!--I'm on the job market! Please reach out if you think I'd be a good fit for your academic department or industry research group.-->
