@@ -114,6 +114,6 @@ __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teachin
 
 &nbsp;
 
-<font size="2" color="grey">Last updated: Jan 2022</font><br>
+<font size="1" color="grey">Last updated: Jan 2022</font><br>
 
 
