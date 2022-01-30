@@ -7,11 +7,7 @@ Hi there! I'm a master's student in [**Graduate Institute of Linguistics**](http
 
 I am a member of [**LOPE Lab**](https://lope.linguistics.ntu.edu.tw/), where I learn programming and assist in linguistics research. My projects include sentiment analysis, word sense disambiguation, and quantitative corpus analysis. In summer of 2021, I interned at [**Delta Electronic**](https://www.deltaww.com/en-US/index) (Neihu, Taipei) as a backend engineer.
 
-My goal is to contribute to the growing field of Chinese NLP, especially Taiwan Mandarin. 
-
-
-<!--Outside of academia I love skiing and modern art. -->
-
+My goal is to contribute to the growing field of Chinese NLP, especially Taiwan Mandarin. Outside of academia I enjoy cooking and classical music.
 
 &nbsp;
 
