@@ -98,7 +98,6 @@ __Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
 
 - User manual translation
-- System testing
 
 `2018`
 __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teaching Center, NSYSU</strong></u></a>
@@ -115,6 +114,6 @@ __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teachin
 
 &nbsp;
 
-### Last updated: Jan 2022
+<font size="2" color="grey">Last updated: Jan 2022</font><br>
 
 
