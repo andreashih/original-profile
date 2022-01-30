@@ -11,7 +11,7 @@ My goal is to contribute to the growing field of Chinese NLP, especially Taiwan 
 
 &nbsp;
 
-**News**
+💜 **News**
 ---
 
 `Oct 16, 2021`  |   Giving a presentation at [<u>ROCLING 2021</u>](https://rocling2021.github.io/)  
