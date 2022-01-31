@@ -54,19 +54,19 @@ __What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Cus
 `2020`
 __Corpus Processing Project: Keyness__
 
-- <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/"><u>Hands-on Corpus Linguistics Workshop</u></a> held by <a href="https://lope.linguistics.ntu.edu.tw/"><u>LOPE Lab</u></a> [[code](https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb)]
+- [<u>Hands-on Corpus Linguistics Workshop</u>]("https://lopentu.github.io/Hands-on_Corpus_Linguistics/") [[<u>code</u>](https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb)]
 - Presenters: Cing-Fang Shih and Mao-Chang Ku
 
 `2020`
 __Lectal Variation of the Two Chinese Causative Auxiliaries__
 
-- <a href="https://sites.google.com/ntut.org.tw/rocling2020"><u>ROCLING 2020</u></a> [[slides](https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing)]
+- [<u>ROCLING 2020</u>](https://sites.google.com/ntut.org.tw/rocling2020) [[<u>slides</u>](https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing)]
 - Authors: Cing-Fang Shih, Mao-Chang Ku and Shu-Kai Hsieh
 
 `2019`
 __A Study of Approximators *Zuǒyoù*, *Shàngxià*, and *Qiánhoù*__
 
-- <a href="https://sites.google.com/view/ncl2019"><u>NCL 2019</u></a> [[poster](https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing)]
+- [<u>NCL 2019</u>]("https://sites.google.com/view/ncl2019") [[<u>poster</u>](https://drive.google.com/file/d/1iH51YDWMNdNpCsaeL47nPnrZoviger0O/view?usp=sharing)]
 - Instructor: Prof. Shu-Ing Shyu
 
 
@@ -81,7 +81,7 @@ __From Sense to Action: A Word-Action Disambiguation Task in NLP__
 
 ## Work Experience
 
-`Current`
+`2019.09-present`
 __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
 - Assistant in collaboration project with Chunghwa Telecom (opinion mining and sentiment analysis)
@@ -89,12 +89,12 @@ __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><stron
 - Word senses and sense relations annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u>CWN2 (Chinese Wordnet)</u></a>
 - TA of the student camp of Taiwan Olympiad in Linguistics (TOL)
 
-`2021.07 - 2021.08`
+`2021.07-2021.08`
 __Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/index"><u><strong>Delta Electronics</strong></u></a>
 
 - Data migration
 
-`2019.09 - 2020.08`
+`2019.09-2020.08`
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
 
 - User manual translation
