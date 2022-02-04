@@ -21,19 +21,9 @@ __Distinguished Graduate Award__, Department of Foreign Languages and Literature
 `2019`
 __College Student Research Creativity Award__, Ministry of Science and Technology 
 
-## Publications
-
-**What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion**
-- [<u>ROCLING 2021</u>](https://rocling2021.github.io/) [[<u>slides</u>](https://docs.google.com/presentation/d/1DYROW1Yh_vTV9DBaTCsbTZu4AXR8B15e58e9DyTGybc/edit?usp=sharing)]
-
-**Lectal Variation of the Two Chinese Causative Auxiliaries**
-- [<u>ROCLING 2020</u>](https://sites.google.com/ntut.org.tw/rocling2020) [[<u>slides</u>](https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing)]
-
-**From Sense to Action: A Word-Action Disambiguation Task in NLP**
-- [<u>PACLIC 2020</u>](https://vlsp.org.vn/paclic2020/)
-
 ## Presentations
 
+`2020`
 __Corpus Processing Project: Keyness__
 
 - [<u>Hands-on Corpus Linguistics Workshop</u>]("https://lopentu.github.io/Hands-on_Corpus_Linguistics/") [[<u>slides</u>](https://docs.google.com/presentation/d/1WwmBZBpyf5CQHCDa49z_KWaJdN5qD5YlAZdqyoKD2O0/edit#slide=id.ga596743acd_2_95)] [[<u>code</u>](https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb)]
@@ -51,7 +41,7 @@ __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><stron
 `2021.07-2021.08`
 __Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/index"><u><strong>Delta Electronics</strong></u></a>
 
-- Data migration
+- Data migration (from MongoDB to PostgreSQL) [[<u>blog post</u>](https://andreashih.github.io/blog/journal/intern.html)]
 
 `2019.09-2020.08`
 __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
@@ -62,6 +52,17 @@ __Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>
 __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teaching Center, NSYSU</strong></u></a>
 
 - English writing and TOEIC consultation
+
+## Publications
+
+`2021`
+**Shih, Cing-Fang** and Tseng, Yu-Hsiang and Yang, Ching-Wen and Chen, Pin-Er and Chou, Hsin-Yu and Tan, Lian-Hui and Lin, Tzu-Ju and Wang, Chun-Wei and Hsieh, Shu-Kai. **What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion.** In *Proceedings of the 33rd Conference on Computational Linguistics and Speech Processing ([<u>ROCLING 2021</u>](https://rocling2021.github.io/))*. [[<u>PDF</u>](https://drive.google.com/file/d/1FFg1eR6BP7fYZZNBVbNbxgmbd2GP0w96/view?usp=sharing)] [[<u>slides</u>](https://docs.google.com/presentation/d/1DYROW1Yh_vTV9DBaTCsbTZu4AXR8B15e58e9DyTGybc/edit?usp=sharing)]
+
+`2020`
+**Shih, Cing-Fang**, Mao-Chang Ku, and Shu-Kai Hsieh. **Lectal Variation of the Two Chinese Causative Auxiliaries.** In *Proceedings of the 32nd Conference on Computational Linguistics and Speech Processing ([<u>ROCLING 2020</u>](https://sites.google.com/ntut.org.tw/rocling2020))*. [[<u>PDF</u>](https://drive.google.com/file/d/1GMIYUrGnWGlK8XeMfJyvjWAvBja6ZPs7/view?usp=sharing)] [[<u>slides</u>](https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing)]
+
+`2020`
+Hsieh, Shu-Kai and Tseng, Yu-Hsiang and Chiang, Chiung-Yu and Lian, Richard and Liao, Yong-fu and Ku, Mao-Chang and **Shih, Ching-Fang**. **From Sense to Action: A Word-Action Disambiguation Task in NLP**. In *Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation ([<u>PACLIC 2020</u>](https://vlsp.org.vn/paclic2020/))*. [[<u>PDF</u>](https://drive.google.com/file/d/1O-yZnQ3p2GM5rT-EHa19tG07eLf9Wm6Q/view?usp=sharing)]
 
 ## Certification
 
