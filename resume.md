@@ -23,31 +23,27 @@ __College Student Research Creativity Award__, Ministry of Science and Technolog
 
 ## Publications
 
-A list is also available [online](https://scholar.google.fr/citations?user=7Q3wOsYAAAAJ) 
+**What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion**
+- [<u>ROCLING 2021</u>](https://rocling2021.github.io/) [[<u>slides</u>](https://docs.google.com/presentation/d/1DYROW1Yh_vTV9DBaTCsbTZu4AXR8B15e58e9DyTGybc/edit?usp=sharing)]
 
-`2021`
-**What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion**, [<u>ROCLING 2021</u>](https://rocling2021.github.io/) [[<u>slides</u>](https://docs.google.com/presentation/d/1DYROW1Yh_vTV9DBaTCsbTZu4AXR8B15e58e9DyTGybc/edit?usp=sharing)]
+**Lectal Variation of the Two Chinese Causative Auxiliaries**
+- [<u>ROCLING 2020</u>](https://sites.google.com/ntut.org.tw/rocling2020) [[<u>slides</u>](https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing)]
 
-`2020`
-**Lectal Variation of the Two Chinese Causative Auxiliaries**, [<u>ROCLING 2020</u>](https://sites.google.com/ntut.org.tw/rocling2020) [[<u>slides</u>](https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing)]
-
-`2020`
-**From Sense to Action: A Word-Action Disambiguation Task in NLP**, [<u>PACLIC 2020</u>](https://vlsp.org.vn/paclic2020/)
+**From Sense to Action: A Word-Action Disambiguation Task in NLP**
+- [<u>PACLIC 2020</u>](https://vlsp.org.vn/paclic2020/)
 
 ## Presentations
 
-`2020`
 __Corpus Processing Project: Keyness__
 
-- [<u>Hands-on Corpus Linguistics Workshop</u>]("https://lopentu.github.io/Hands-on_Corpus_Linguistics/") [[<u>code</u>](https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb)]
-- Presenters: Cing-Fang Shih and Mao-Chang Ku
+- [<u>Hands-on Corpus Linguistics Workshop</u>]("https://lopentu.github.io/Hands-on_Corpus_Linguistics/") [[<u>slides</u>](https://docs.google.com/presentation/d/1WwmBZBpyf5CQHCDa49z_KWaJdN5qD5YlAZdqyoKD2O0/edit#slide=id.ga596743acd_2_95)] [[<u>code</u>](https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb)]
 
 ## Work Experience
 
 `2019.09-present`
 __Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
 
-- Assistant in collaboration project with Chunghwa Telecom (opinion mining and sentiment analysis)
+- Assistant of the collaboration project with Chunghwa Telecom (opinion mining and sentiment analysis)
 - TA of <a href="https://lopentu.github.io/rlads2021/"><u>Introduction to Programming for Data Science</u></a>
 - Word senses and sense relations annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u>CWN2 (Chinese Wordnet)</u></a>
 - TA of the student camp of Taiwan Olympiad in Linguistics (TOL)
