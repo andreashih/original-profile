@@ -61,7 +61,7 @@ __English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teachin
 
 Hsieh, Shu-Kai and Tseng, Yu-Hsiang and Chiang, Chiung-Yu and Lian, Richard and Liao, Yong-fu and Ku, Mao-Chang and **Shih, Ching-Fang**. **From Sense to Action: A Word-Action Disambiguation Task in NLP**. In *Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation ([<u>PACLIC 2020</u>](https://vlsp.org.vn/paclic2020/))*. <a href="https://drive.google.com/file/d/1O-yZnQ3p2GM5rT-EHa19tG07eLf9Wm6Q/view?usp=sharing"><font color="#98c5d1"><u>[PDF]</u></font></a>
 
-## Certification
+## Certifications
 
 `2019`
 - IELTS 7.0 (overall)
