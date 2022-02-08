@@ -11,7 +11,7 @@ __M.A. Student in Linguistics, National Taiwan University__
 ## Education
 
 `2015 - 2019`
-B.A. in English Literature, National Sun Yat-sen University (NSYSU)
+B.A. in Foreign Languages and Literature, National Sun Yat-sen University (NSYSU)
 
 ## Awards
 

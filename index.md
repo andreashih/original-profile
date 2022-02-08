@@ -3,9 +3,9 @@ layout: page
 excerpt: "Biography"
 ---
 
-Hi there! I'm a master's student in [**Graduate Institute of Linguistics**](https://linguistics.ntu.edu.tw/) at National Taiwan University. My research interests focus on corpus linguistics, computational linguistics, and natural language processing. Before coming to NTU, I received a B.A. in English Literature from National Sun Yat-sen University.
+Hi there! I'm a master's student in [**Graduate Institute of Linguistics**](https://linguistics.ntu.edu.tw/) at National Taiwan University. My research interests focus on corpus linguistics, computational linguistics, and natural language processing.
 
-I am a member of [**LOPE Lab**](https://lope.linguistics.ntu.edu.tw/), where I learn programming and assist in linguistics research. My projects include sentiment analysis, word sense disambiguation, and quantitative corpus analysis. In summer of 2021, I interned at [**Delta Electronics**](https://www.deltaww.com/en-US/index) (Neihu, Taipei) as a backend engineer.
+I am a member of [**LOPE Lab**](https://lope.linguistics.ntu.edu.tw/), where I learn programming and assist in linguistics research. My projects include sentiment analysis, word sense disambiguation, and quantitative corpus analysis. In summer of 2021, I interned at [**Delta Electronics**](https://www.deltaww.com/en-US/index) as a backend engineer.
 
 My goal is to contribute to the growing field of Chinese NLP, especially Taiwan Mandarin. Outside of research I enjoy cooking and classical music.
 
