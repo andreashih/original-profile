@@ -9,7 +9,7 @@ PDF: <a href="https://bit.ly/resume-andreashih"><font color="#98c5d1"><u>bit.ly/
 
 __M.A. Student in Linguistics, National Taiwan University__
 
-- Concentration: computational linguistics, corpus linguistics
+- Concentrations: computational linguistics, corpus linguistics
 
 ## Education
 
