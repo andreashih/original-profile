@@ -19,7 +19,7 @@ B.A. in Foreign Languages and Literature, National Sun Yat-sen University (NSYSU
 ## Awards
 
 `2019`
-__Distinguished Graduate Award__, Department of Foreign Languages and Literature, NSYSU
+__Distinguished Undergraduate Award__, Department of Foreign Languages and Literature, NSYSU
 
 `2019`
 __College Student Research Creativity Award__, Ministry of Science and Technology 
