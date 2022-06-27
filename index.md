@@ -15,6 +15,7 @@ My goal is to contribute to the growing field of Chinese NLP, especially Taiwan 
 💜 **News**
 ---
 
+`Jun 2022`  |   🎉 Passed my master's oral defense!
 `Oct 2021`  |   Giving a presentation at [<u>ROCLING 2021</u>](https://rocling2021.github.io/)  
 `Jul 2021`  |   Starting my intern job at [<u>Delta Electronics</u>](https://www.deltaww.com/en-US/index)  
 `Mar 2021`  |   Starting my TA job ([<u>Introduction to Programming for Data Science</u>](https://lopentu.github.io/rlads2021/))  
