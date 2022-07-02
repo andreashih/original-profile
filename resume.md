@@ -3,8 +3,6 @@ layout: resume
 title: Resume
 ---
 
-PDF: <a href="https://bit.ly/resume-andreashih"><font color="#98c5d1"><u>bit.ly/resume-andreashih</u></font></a>
-
 ## Currently
 
 __M.A. Student in Linguistics, National Taiwan University__
