@@ -3,7 +3,7 @@ layout: page
 excerpt: "Biography"
 ---
 
-<font color="#D0104C">I'm on the job market! I can be easily reached at your convenience by <a href="mailto:cfshih97@gmail.com"><u>email</u></a>.</font>
+<font color="#D0104C">I'm on the job market! I can be easily reached at your convenience by email <a href="mailto:cfshih97@gmail.com"><u>(cfshih97@gmail.com)</u></a>.</font>
 
 &nbsp;
 
