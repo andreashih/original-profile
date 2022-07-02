@@ -46,16 +46,6 @@ __Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/
 
 - Data migration (from MongoDB to PostgreSQL) <a href="https://andreashih.github.io/blog/journal/intern.html"><font color="#98c5d1"><u>[blog post]</u></font></a>
 
-`2019.09-2020.08`
-__Part-time Worker__, <a href="https://www.dlc.ntu.edu.tw/ntu-cool/"><u><strong>NTU COOL</strong></u></a>
-
-- User manual translation
-
-`2018`
-__English Tutor__, <a href="http://etc.nsysu.edu.tw/"><u><strong>English Teaching Center, NSYSU</strong></u></a>
-
-- English writing and TOEIC consultation
-
 ## Publications
 
 Tseng, Yu-Hsiang and **Shih, Cing-Fang** and Chen, Pin-Er and Chou, Hsin-Yu and Mao-Chang Ku, and Shu-Kai Hsieh. (in press). **CxLM: A Construction and Context-aware Language Model**. In *Proceedings of The 13th Language Resources and Evaluation Conference ([<u>LREC 2022</u>](https://lrec2022.lrec-conf.org/en/))*.
@@ -65,14 +55,6 @@ Tseng, Yu-Hsiang and **Shih, Cing-Fang** and Chen, Pin-Er and Chou, Hsin-Yu and 
 **Shih, Cing-Fang**, Mao-Chang Ku, and Shu-Kai Hsieh. **Lectal Variation of the Two Chinese Causative Auxiliaries**. In *Proceedings of the 32nd Conference on Computational Linguistics and Speech Processing ([<u>ROCLING 2020</u>](https://sites.google.com/ntut.org.tw/rocling2020))*. <a href="https://drive.google.com/file/d/1GMIYUrGnWGlK8XeMfJyvjWAvBja6ZPs7/view?usp=sharing"><font color="#98c5d1"><u>[PDF]</u></font></a> <a href="https://docs.google.com/presentation/d/1yXZYwv4QqbNzq6FXP8bkr7nxPT2TNWNAMwVNzRuzrdM/edit?usp=sharing"><font color="#98c5d1"><u>[slides]</u></font></a>
 
 Hsieh, Shu-Kai and Tseng, Yu-Hsiang and Chiang, Chiung-Yu and Lian, Richard and Liao, Yong-fu and Ku, Mao-Chang and **Shih, Ching-Fang**. **From Sense to Action: A Word-Action Disambiguation Task in NLP**. In *Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation ([<u>PACLIC 2020</u>](https://vlsp.org.vn/paclic2020/))*. <a href="https://drive.google.com/file/d/1O-yZnQ3p2GM5rT-EHa19tG07eLf9Wm6Q/view?usp=sharing"><font color="#98c5d1"><u>[PDF]</u></font></a>
-
-## Certifications
-
-`2019`
-- IELTS 7.0 (overall)
-
-`2018`
-- TOEIC 965
 
 &nbsp;
 
