@@ -3,10 +3,6 @@ layout: page
 excerpt: "Biography"
 ---
 
-<font color="#D0104C">I'm on the job market! I can be easily reached at your convenience by email <a href="mailto:cfshih97@gmail.com"><u>(cfshih97@gmail.com)</u></a>.</font>
-
-&nbsp;
-
 Hi there! I'm a master's student in [**Graduate Institute of Linguistics**](https://linguistics.ntu.edu.tw/) at National Taiwan University. My research interests focus on corpus linguistics, computational linguistics, and natural language processing.
 
 I am a member of [**LOPE Lab**](https://lope.linguistics.ntu.edu.tw/), where I learn programming and assist in linguistics research. My projects include sentiment analysis, word sense disambiguation, and quantitative corpus analysis. In summer of 2021, I interned at [**Delta Electronics**](https://www.deltaww.com/en-US/index) as a backend engineer.
