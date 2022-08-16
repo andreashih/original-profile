@@ -46,7 +46,7 @@ __Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/
 
 ## Publications
 
-Tseng, Yu-Hsiang and **Shih, Cing-Fang** and Chen, Pin-Er and Chou, Hsin-Yu and Mao-Chang Ku, and Shu-Kai Hsieh. (in press). **CxLM: A Construction and Context-aware Language Model**. In *Proceedings of The 13th Language Resources and Evaluation Conference ([<u>LREC 2022</u>](https://lrec2022.lrec-conf.org/en/))*.
+Tseng, Yu-Hsiang and **Shih, Cing-Fang** and Chen, Pin-Er and Chou, Hsin-Yu and Mao-Chang Ku, and Shu-Kai Hsieh. **CxLM: A Construction and Context-aware Language Model**. In *Proceedings of The 13th Language Resources and Evaluation Conference ([<u>LREC 2022</u>](https://lrec2022.lrec-conf.org/en/))*. <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.683.pdf"><font color="#98c5d1"><u>[PDF]</u></font></a>
 
 **Shih, Cing-Fang** and Tseng, Yu-Hsiang and Yang, Ching-Wen and Chen, Pin-Er and Chou, Hsin-Yu and Tan, Lian-Hui and Lin, Tzu-Ju and Wang, Chun-Wei and Hsieh, Shu-Kai. **What confuses BERT? Linguistic Evaluation of Sentiment Analysis on Telecom Customer Opinion**. In *Proceedings of the 33rd Conference on Computational Linguistics and Speech Processing ([<u>ROCLING 2021</u>](https://rocling2021.github.io/))*. <a href="https://drive.google.com/file/d/1FFg1eR6BP7fYZZNBVbNbxgmbd2GP0w96/view?usp=sharing"><font color="#98c5d1"><u>[PDF]</u></font></a> <a href="https://docs.google.com/presentation/d/1DYROW1Yh_vTV9DBaTCsbTZu4AXR8B15e58e9DyTGybc/edit?usp=sharing"><font color="#98c5d1"><u>[slides]</u></font></a>
 
@@ -56,6 +56,4 @@ Hsieh, Shu-Kai and Tseng, Yu-Hsiang and Chiang, Chiung-Yu and Lian, Richard and 
 
 &nbsp;
 
-<font size="1" color="#98c5d1">Last updated: Apr 2022</font>
-
-
+<font size="1" color="#98c5d1">Last updated: Aug 2022</font>
