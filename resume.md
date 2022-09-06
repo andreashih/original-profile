@@ -5,14 +5,35 @@ title: Resume
 
 ## Currently
 
-__M.A. Student in Linguistics, National Taiwan University__
-
-- Concentrations: computational linguistics, corpus linguistics
+Data Scientist, Wistron Corporation
 
 ## Education
 
+`2019 - 2022`
+M.A. Student in Linguistics, National Taiwan University
+
+- Concentrations: computational linguistics, corpus linguistics
+- Master's thesis: Semantic Classification of Mandarin Chinese Constructions <a href="https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-2208202200052700&PublishTypeID=P003"><font color="#98c5d1"><u>[PDF]</u></font></a>
+
 `2015 - 2019`
 B.A. in Foreign Languages and Literature, National Sun Yat-sen University (NSYSU)
+
+## Work Experience
+`2022.09-present`
+__Data Scientist__, <a href="https://www.wistron.com/"><u><strong>Wistron Corporation</strong></u></a>
+
+`2021.07-2021.08`
+__Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/index"><u><strong>Delta Electronics</strong></u></a>
+
+- Data migration (from MongoDB to PostgreSQL) <a href="https://andreashih.github.io/blog/journal/intern.html"><font color="#98c5d1"><u>[blog post]</u></font></a>
+
+`2019.09-2022.08`
+__Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
+
+- Assistant of the collaboration project with Chunghwa Telecom (opinion mining and sentiment analysis)
+- TA of <a href="https://lopentu.github.io/rlads2021/"><u>Introduction to Programming for Data Science</u></a>
+- Word senses and sense relations annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u>CWN2 (Chinese Wordnet)</u></a>
+- TA of the student camp of Taiwan Olympiad in Linguistics (TOL)
 
 ## Awards
 
@@ -29,21 +50,6 @@ __Corpus Processing Project: Keyness__
 
 - [<u>Hands-on Corpus Linguistics Workshop</u>]("https://lopentu.github.io/Hands-on_Corpus_Linguistics/") <a href="https://docs.google.com/presentation/d/1WwmBZBpyf5CQHCDa49z_KWaJdN5qD5YlAZdqyoKD2O0/edit#slide=id.ga596743acd_2_95"><font color="#98c5d1"><u>[slides]</u></font></a> <a href="https://github.com/lopentu/Hands-on_Corpus_Linguistics/blob/main/hocor2020/notebook/session-5.2.ipynb"><font color="#98c5d1"><u>[code]</u></font></a>
 
-## Work Experience
-
-`2019.09-present`
-__Graduate Assistant__, <a href="https://lope.linguistics.ntu.edu.tw/"><u><strong>LOPE Lab</strong></u></a>
-
-- Assistant of the collaboration project with Chunghwa Telecom (opinion mining and sentiment analysis)
-- TA of <a href="https://lopentu.github.io/rlads2021/"><u>Introduction to Programming for Data Science</u></a>
-- Word senses and sense relations annotation in <a href="https://lopentu.github.io/CwnWeb/#home"><u>CWN2 (Chinese Wordnet)</u></a>
-- TA of the student camp of Taiwan Olympiad in Linguistics (TOL)
-
-`2021.07-2021.08`
-__Backend Software Engineering Intern__, <a href="https://www.deltaww.com/en-US/index"><u><strong>Delta Electronics</strong></u></a>
-
-- Data migration (from MongoDB to PostgreSQL) <a href="https://andreashih.github.io/blog/journal/intern.html"><font color="#98c5d1"><u>[blog post]</u></font></a>
-
 ## Publications
 
 Tseng, Yu-Hsiang and **Shih, Cing-Fang** and Chen, Pin-Er and Chou, Hsin-Yu and Mao-Chang Ku, and Shu-Kai Hsieh. **CxLM: A Construction and Context-aware Language Model**. In *Proceedings of The 13th Language Resources and Evaluation Conference ([<u>LREC 2022</u>](https://lrec2022.lrec-conf.org/en/))*. <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.683.pdf"><font color="#98c5d1"><u>[PDF]</u></font></a>
@@ -56,4 +62,4 @@ Hsieh, Shu-Kai and Tseng, Yu-Hsiang and Chiang, Chiung-Yu and Lian, Richard and 
 
 &nbsp;
 
-<font size="1" color="#98c5d1">Last updated: Aug 2022</font>
+<font size="1" color="#98c5d1">Last updated: Sep 2022</font>
